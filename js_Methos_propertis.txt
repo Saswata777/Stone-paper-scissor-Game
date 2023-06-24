@@ -1,0 +1,10 @@
+getElementById()
+querySelectorAll()
+forEach()
+addEventListener()
+e.target.id
+.innerHTML
+click
+Math.floor()
+Math.random()
+
